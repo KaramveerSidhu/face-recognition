@@ -1,4 +1,4 @@
-# Face-Recognition-
+# Face-Recognition
 A Face Recognition project in Python that you can use for various other projects and service providers. 
 This project is based on face_recognition library in Python. You have to install it first.You can refer the link below for the same:
 https://github.com/ageitgey/face_recognition
